@@ -2,7 +2,7 @@
 
 
 ## 📌 Overview
-A neural network implemented **from scratch in NumPy** to classify handwritten digits from the MNIST dataset. Achieves **~95% accuracy** without frameworks like TensorFlow.
+A neural network implemented **from scratch in NumPy** to classify handwritten digits from the MNIST dataset. Achieves **~85% accuracy** without frameworks like TensorFlow.
 
 ## 🛠️ Features
 - Custom forward/backpropagation
